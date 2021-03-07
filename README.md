@@ -1,3 +1,6 @@
+# Netlify-CMS-Gatsby
+Used tutorial to add admin/config.yml, setup Netlify plugins (as seen at bottom of gatsby-node.js) and add tags components to templates (& gatsby-node.js): [https://blog.bitsrc.io/use-netlify-cms-with-gatsby-blogs-8bb73ab2e0cf](https://blog.bitsrc.io/use-netlify-cms-with-gatsby-blogs-8bb73ab2e0cf )
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
